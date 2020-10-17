@@ -1,5 +1,5 @@
 // url to the api
-const url = 'http://jservice.io/api/random';
+const url = 'https://jservice.io/api/random';
 
 // some global variables
 let questionObject = {};
